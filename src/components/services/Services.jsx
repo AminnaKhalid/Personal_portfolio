@@ -48,19 +48,23 @@ const Services = () => {
           <ul>
             <List
               icon={<BsCheckLg />}
-              para={"my name is amna khalid a full stack developer"}
+              para={"Proficiency in HTML5, CSS3, and JavaScript."}
             />
             <List
               icon={<BsCheckLg />}
-              para={"my name is amna khalid a full stack developer"}
+              para={"Experience integrating third-party APIs and web services."}
             />
             <List
               icon={<BsCheckLg />}
-              para={"my name is amna khalid a full stack developer"}
+              para={
+                "Understanding of SEO principles and techniques to improve website visibility "
+              }
             />
             <List
               icon={<BsCheckLg />}
-              para={"my name is amna khalid a full stack developer"}
+              para={
+                "Effective communication with clients, team members, and stakeholders."
+              }
             />
           </ul>
         </article>
@@ -78,19 +82,27 @@ const Services = () => {
           <ul>
             <List
               icon={<BsCheckLg />}
-              para={"my name is amna khalid a full stack developer"}
+              para={
+                "Ability to create clear, concise, and engaging content across various formats."
+              }
             />
             <List
               icon={<BsCheckLg />}
-              para={"my name is amna khalid a full stack developer"}
+              para={
+                "Understanding of SEO and keyword research for content optimization."
+              }
             />
             <List
               icon={<BsCheckLg />}
-              para={"my name is amna khalid a full stack developer"}
+              para={
+                "Proficiency in creating and maintaining blogs, including ideation, writing, and publishing."
+              }
             />
             <List
               icon={<BsCheckLg />}
-              para={"my name is amna khalid a full stack developer"}
+              para={
+                "Basic graphic design skills to create visuals and graphics for content."
+              }
             />
           </ul>
         </article>

@@ -1,12 +1,12 @@
 import React from "react";
-
+import cv from "../../assets/amnacv.pdf";
 const CTA = () => {
   return (
     <div
       id="CTA"
       className="grid grid-cols-1  md:grid-cols-2 mt-9 gap-2 place-content-center md:flex md:justify-center md:items-center"
     >
-      <a href="./assets/amnacv.pdf" className="btn order-2 md:order-1 ">
+      <a href={cv} className="btn order-2 md:order-1 " download={cv}>
         Download Cv
       </a>
 
